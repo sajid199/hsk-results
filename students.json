@@ -314,5 +314,26 @@
         "HSKK Speaking": "43",
         "HSKK Total": "43",
         "HSKK Status": "不合格"
+   },
+    {
+        "Name on Certificate": "Amir Khan",
+        "Chinese Name": "桑迪克",
+        "Nationality": "印度",
+        "Gender": "男",
+        "Exam Center": "尼泊尔L.R.I孔子课堂",
+        "Ticket No.": "H4250594705000768 H8250594705000769",
+        "Certificate No.": "H4250879999",
+        "Test Type": "HSK四级",
+        "Test Time": "APR 12, 2025",
+        "Photo": "./photo/AamirKhan.png",
+        "HSK Listening": "66",
+        "HSK Reading": "70",
+        "HSK Writing": "59",
+        "HSK Total": "195",
+        "HSK Status": "合格",
+        "HSKK Level": "中级",
+        "HSKK Speaking": "43",
+        "HSKK Total": "43",
+        "HSKK Status": "不合格"
    }
 ]

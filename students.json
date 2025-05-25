@@ -325,7 +325,7 @@
         "Certificate No.": "H4250879999",
         "Test Type": "HSK四级",
         "Test Time": "APR 12, 2025",
-        "Photo": "https://raw.githubusercontent.com/sajid199/hsk-results/main/photos/aamir.png",
+        "Photo": "./photos/aamir-khan.png",
         "HSK Listening": "66",
         "HSK Reading": "70",
         "HSK Writing": "59",

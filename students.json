@@ -356,5 +356,26 @@
         "HSKK Speaking": "43",
         "HSKK Total": "43",
         "HSKK Status": "不合格"
+},
+{
+        "Name on Certificate": "Naira",
+        "Chinese Name": "思华旻",
+        "Nationality": "印度",
+        "Gender": "男",
+        "Exam Center": "ShenZhen TaoLi Chinese(IBT)",
+        "Ticket No.": "H42506888960140013 H82506888960180010",
+        "Certificate No.": "H4250822143",
+        "Test Type": "HSK四级",
+        "Test Time": "JULY 19, 2025",
+        "Photo": "https://raw.githubusercontent.com/sajid199/hsk-results/main/photos/Naira.png",
+        "HSK Listening": "66",
+        "HSK Reading": "70",
+        "HSK Writing": "59",
+        "HSK Total": "195",
+        "HSK Status": "合格",
+        "HSKK Level": "中级",
+        "HSKK Speaking": "43",
+        "HSKK Total": "43",
+        "HSKK Status": "不合格"
 }
 ]

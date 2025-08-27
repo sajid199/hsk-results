@@ -398,5 +398,26 @@
         "HSKK Speaking": "66",
         "HSKK Total": "66",
         "HSKK Status": "合格"
-}
+},
+{
+        "Name on Certificate": "NISHA",
+        "Chinese Name": "",
+        "Nationality": "印度",
+        "Gender": "女",
+        "Exam Center": "尼泊尔L.R.I孔子课堂",
+        "Ticket No.": "H42506888960140010 H82506888960180013",
+        "Certificate No.": "H42508749779",
+        "Test Type": "HSK四级",
+        "Test Time": "JULY 19, 2025",
+        "Photo": "https://raw.githubusercontent.com/sajid199/hsk-results/main/photos/Nisha.png",
+        "HSK Listening": "71",
+        "HSK Reading": "67",
+        "HSK Writing": "51",
+        "HSK Total": "189",
+        "HSK Status": "合格",
+        "HSKK Level": "中级",
+        "HSKK Speaking": "68",
+        "HSKK Total": "68",
+        "HSKK Status": "合格"
+ }
 ]

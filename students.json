@@ -419,5 +419,26 @@
         "HSKK Speaking": "68",
         "HSKK Total": "68",
         "HSKK Status": "合格"
- }
+ },
+ {
+        "Name on Certificate": "SHIVANSH KANSAL",
+        "Chinese Name": "",
+        "Nationality": "印度",
+        "Gender": "男",
+        "Exam Center": "尼泊尔L.R.I孔子课堂",
+        "Ticket No.": "H42506888960140027 H82506888960180025",
+        "Certificate No.": "H42508749896",
+        "Test Type": "HSK四级",
+        "Test Time": "JULY 19, 2025",
+        "Photo": "https://raw.githubusercontent.com/sajid199/hsk-results/main/photos/shivansh.png",
+        "HSK Listening": "71",
+        "HSK Reading": "65",
+        "HSK Writing": "58",
+        "HSK Total": "194",
+        "HSK Status": "合格",
+        "HSKK Level": "中级",
+        "HSKK Speaking": "71",
+        "HSKK Total": "71",
+        "HSKK Status": "合格"
+}
 ]

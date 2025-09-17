@@ -440,5 +440,26 @@
         "HSKK Speaking": "71",
         "HSKK Total": "71",
         "HSKK Status": "合格"
-}
+},
+{
+        "Name on Certificate": "GOURAVDEEP",
+        "Chinese Name": "顾迪",
+        "Nationality": "印度",
+        "Gender": "男",
+        "Exam Center": "北京语言大学(网考)",
+        "Ticket No.": "H4250594905000715 H8250594905000716",
+        "Certificate No.": "H4250674902",
+        "Test Type": "HSK四级",
+        "Test Time": "AUG 17, 2025",
+        "Photo": "https://raw.githubusercontent.com/sajid199/hsk-results/main/photos/GauravDeep.png",
+        "HSK Listening": "66",
+        "HSK Reading": "70",
+        "HSK Writing": "62",
+        "HSK Total": "198",
+        "HSK Status": "合格",
+        "HSKK Level": "中级",
+        "HSKK Speaking": "62",
+        "HSKK Total": "62",
+        "HSKK Status": "合格"
+ }
 ]

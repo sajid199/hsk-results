@@ -461,5 +461,27 @@
         "HSKK Speaking": "62",
         "HSKK Total": "62",
         "HSKK Status": "合格"
- }
+ },
+ {
+        "Name on Certificate": "HASSAN ALI",
+        "Chinese Name": "阿里",
+        "Nationality": "印度",
+        "Gender": "男",
+        "Exam Center": "北京语言大学(网考)",
+        "Ticket No.": "H4250594905000720 H8250594905000721",
+        "Certificate No.": "H4250674903",
+        "Test Type": "HSK四级",
+        "Test Time": "AUG 17, 2025",
+        "Photo": "https://raw.githubusercontent.com/sajid199/hsk-results/main/photos/hussainAli.png",
+        "HSK Listening": "70",
+        "HSK Reading": "66",
+        "HSK Writing": "65",
+        "HSK Total": "201",
+        "HSK Status": "合格",
+        "HSKK Level": "中级",
+        "HSKK Speaking": "63",
+        "HSKK Total": "63",
+        "HSKK Status": "合格"
+}
+
 ]

@@ -467,7 +467,7 @@
         "Chinese Name": "阿里",
         "Nationality": "印度",
         "Gender": "男",
-        "Exam Center": "北京语言大学(网考)",
+        "Exam Center": "尼泊尔L.R.I孔子课堂",
         "Ticket No.": "H4250594905000720 H8250594905000721",
         "Certificate No.": "H4250674903",
         "Test Type": "HSK四级",
@@ -482,6 +482,28 @@
         "HSKK Speaking": "63",
         "HSKK Total": "63",
         "HSKK Status": "合格"
+},
+{
+        "Name on Certificate": "PANKAJ KUSHWAHA",
+        "Chin Name": "潘卡.",
+        "Nationality": "印度",
+        "Gender": "男",
+        "Exam Center": "尼泊尔L.R.I孔子课堂",
+        "Ticket No.": "H4250594705000735 H8250594705000736",
+        "Certificate No.": "H4250874906",
+        "Test Type": "HSK四级",
+        "Test Time": "Aug 17, 2025",
+        "Photo": "https://raw.githubusercontent.com/sajid199/hsk-results/main/photos/pankaj.png",
+        "HSK Listening": "69",
+        "HSK Reading": "61",
+        "HSK Writing": "59",
+        "HSK Total": "189",
+        "HSK Status": "合格",
+        "HSKK Level": "中级",
+        "HSKK Speaking": "61",
+        "HSKK Total": "61",
+        "HSKK Status": "合格"
 }
+
 
 ]

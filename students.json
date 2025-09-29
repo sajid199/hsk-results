@@ -544,5 +544,27 @@
         "HSKK Speaking": "64",
         "HSKK Total": "64",
         "HSKK Status": "合格"
-    }
+    },
+    {
+        "Name on Certificate": "SANDEEP SINGH",
+        "Chinese Name": "",
+        "Nationality": "印度",
+        "Gender": "男",
+        "Exam Center": "尼泊尔L.R.I孔子课堂",
+        "Ticket No.": "H4250594905000224 H8250594905000227",
+        "Certificate No.": "H4250674317",
+        "Test Type": "HSK四级",
+        "Test Time": "AUG 17, 2025",
+        "Photo": "https://raw.githubusercontent.com/sajid199/hsk-results/main/photos/sandeepsingh.png",
+        "HSK Listening": "65",
+        "HSK Reading": "60",
+        "HSK Writing": "71",
+        "HSK Total": "196",
+        "HSK Status": "合格",
+        "HSKK Level": "中级",
+        "HSKK Speaking": "66",
+        "HSKK Total": "66",
+        "HSKK Status": "合格"
+}
+
 ]
